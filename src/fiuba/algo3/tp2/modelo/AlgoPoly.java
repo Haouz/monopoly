@@ -1,5 +1,6 @@
 package fiuba.algo3.tp2.modelo;
 
+
 public class AlgoPoly {
 	Tablero tablero = new Tablero();
 	
